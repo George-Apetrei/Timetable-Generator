@@ -2,6 +2,7 @@
 Create a timetable generator using the availability of "providers" and the criteria of "consumers".
 # How does it work?
 Providers (Teachers, educators, counselors, etc) offer a list of available activities and an availability schedule.
+
 Consumers (Student classes, trainee groups, etc) schedule activities according to the criteria they have.
 
 # Timetable format
